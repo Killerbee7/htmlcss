@@ -1,0 +1,32 @@
+body{
+    background-color: hsl(129, 85%, 39%);
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+h2 {
+    color: blue;
+    text-align: center;
+}
+
+h3{
+    color: pink;
+    text-align: center;
+}
+
+h4{
+    color: black;
+    text-align: center;
+}
+
+h5{
+    color: brown;
+    text-align: center;
+
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

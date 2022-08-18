@@ -1,0 +1,17 @@
+body {
+    background-color: red;
+}
+
+    /* example of id*/
+    #my_id {
+        color: white;
+        text-align: center;
+        font: 40px;
+    }
+
+    /* Example  of class */
+    .my_class{
+        font-family: verdana, sans-serif;
+        font-size: 20px;
+        text-align: center;
+    }
