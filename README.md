@@ -1,2 +1,2 @@
 Basic HTML and CSS practices, assignments and projects.
-Teacher: Margit 
+Teacher: Margit Tennosaar
